@@ -3,4 +3,4 @@ The goal of the homework was to create a weekday calendar that would allow to in
 
 Challenge: Color coding the time block to represent the past, present and future was difficult. 
 
-![image](https://github.com/sthapa411/workdayscheduler.github.io/Screenshot-Workdayscheduler.png)
+![Screenshot-Workdayscheduler]https://github.com/sthapa411/homework4.github.io/blob/master/)
